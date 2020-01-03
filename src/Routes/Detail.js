@@ -1,14 +1,13 @@
 import React, {Component} from 'react';
-import Router from "./Components/Router";
 
-class App extends Component {
+class Detail extends Component {
     render() {
         return (
             <div>
-                <Router/>
+                <h1>Detail</h1>
             </div>
         );
     }
 }
 
-export default App;
+export default Detail;
