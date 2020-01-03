@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0a87c1-0652-4fff-b27c-4f5f6dcf9b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailPresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchPresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/TV/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578041603036</updated>
-      <workItem from="1578041607529" duration="4065000" />
+      <workItem from="1578041607529" duration="4824000" />
     </task>
     <servers />
   </component>
@@ -83,10 +96,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="18" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578043857949" />
-    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578041688461">
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578045982499">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578041688461" />
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578045982499" />
     <state x="219" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1578045365109">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
