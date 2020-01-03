@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0a87c1-0652-4fff-b27c-4f5f6dcf9b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Search/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/TV/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/TV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578041603036</updated>
-      <workItem from="1578041607529" duration="4824000" />
+      <workItem from="1578041607529" duration="5400000" />
     </task>
     <servers />
   </component>
