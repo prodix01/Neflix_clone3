@@ -38,6 +38,8 @@ export const tvApi = {
         }),
     search: keyword =>
         api.get("search/tv", {
-            query : encodeURIComponent(keyword)
+            params: {
+                query : encodeURIComponent(keyword)
+            }
         })
 };
