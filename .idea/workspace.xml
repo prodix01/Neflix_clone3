@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0a87c1-0652-4fff-b27c-4f5f6dcf9b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Poster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578041603036</updated>
-      <workItem from="1578041607529" duration="6395000" />
+      <workItem from="1578041607529" duration="7911000" />
     </task>
     <servers />
   </component>
